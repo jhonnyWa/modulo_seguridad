@@ -1,0 +1,20 @@
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Datos\bin\Debug\Datos.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Datos\bin\Debug\Datos.pdb
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Datos\obj\Debug\Datos.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Datos\obj\Debug\Datos.pdb
+E:\ADO.NET\Seguridad\Seguridad\Datos\bin\Debug\Datos.dll
+E:\ADO.NET\Seguridad\Seguridad\Datos\bin\Debug\Datos.pdb
+E:\ADO.NET\Seguridad\Seguridad\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\ADO.NET\Seguridad\Seguridad\Datos\obj\Debug\Datos.dll
+E:\ADO.NET\Seguridad\Seguridad\Datos\obj\Debug\Datos.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Datos\bin\Debug\Datos.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Datos\bin\Debug\Datos.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Datos\obj\Debug\Datos.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Datos\obj\Debug\Datos.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Datos\bin\Debug\Datos.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Datos\bin\Debug\Datos.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Datos\obj\Debug\Datos.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Datos\obj\Debug\Datos.pdb

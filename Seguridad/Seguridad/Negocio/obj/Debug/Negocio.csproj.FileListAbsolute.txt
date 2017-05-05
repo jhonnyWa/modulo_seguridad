@@ -1,0 +1,28 @@
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Negocio\bin\Debug\Negocio.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Negocio\bin\Debug\Negocio.pdb
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Negocio\bin\Debug\Datos.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Negocio\bin\Debug\Datos.pdb
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Negocio\obj\Debug\Negocio.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Negocio\obj\Debug\Negocio.pdb
+E:\ADO.NET\Seguridad\Seguridad\Negocio\bin\Debug\Negocio.dll
+E:\ADO.NET\Seguridad\Seguridad\Negocio\bin\Debug\Negocio.pdb
+E:\ADO.NET\Seguridad\Seguridad\Negocio\bin\Debug\Datos.dll
+E:\ADO.NET\Seguridad\Seguridad\Negocio\bin\Debug\Datos.pdb
+E:\ADO.NET\Seguridad\Seguridad\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+E:\ADO.NET\Seguridad\Seguridad\Negocio\obj\Debug\Negocio.dll
+E:\ADO.NET\Seguridad\Seguridad\Negocio\obj\Debug\Negocio.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Negocio\bin\Debug\Negocio.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Negocio\bin\Debug\Negocio.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Negocio\bin\Debug\Datos.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Negocio\bin\Debug\Datos.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Negocio\obj\Debug\Negocio.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Negocio\obj\Debug\Negocio.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Negocio\bin\Debug\Negocio.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Negocio\bin\Debug\Negocio.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Negocio\bin\Debug\Datos.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Negocio\bin\Debug\Datos.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Negocio\obj\Debug\Negocio.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Negocio\obj\Debug\Negocio.pdb

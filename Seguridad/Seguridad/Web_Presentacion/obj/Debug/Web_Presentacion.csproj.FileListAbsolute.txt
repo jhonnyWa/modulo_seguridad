@@ -1,0 +1,172 @@
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\Web_Presentacion.dll.config
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\Web_Presentacion.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\Web_Presentacion.pdb
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\Antlr3.Runtime.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\AspNet.ScriptManager.jQuery.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.AspNet.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.Core.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OAuth.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OpenId.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\EntityFramework.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\Microsoft.ScriptManager.WebForms.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\Microsoft.Web.Infrastructure.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\Negocio.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\System.Web.Optimization.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\System.Web.Providers.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\WebGrease.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\Datos.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\Negocio.pdb
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\EntityFramework.xml
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.Core.xml
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OAuth.xml
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OpenId.xml
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.AspNet.xml
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\Datos.pdb
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\es\EntityFramework.resources.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\es\System.Web.Optimization.resources.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\es\System.Web.Providers.resources.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\obj\Debug\Web_Presentacion.csprojResolveAssemblyReference.cache
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\obj\Debug\Web_Presentacion.dll
+E:\ADO.NET\Seguridad\Proyecto\Seguridad\Web_Presentacion\obj\Debug\Web_Presentacion.pdb
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\Web_Presentacion.dll.config
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\Web_Presentacion.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\Web_Presentacion.pdb
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\Antlr3.Runtime.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\AspNet.ScriptManager.jQuery.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.AspNet.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.Core.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OAuth.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OpenId.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\EntityFramework.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.ScriptManager.WebForms.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.Web.Infrastructure.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\Negocio.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\System.Web.Optimization.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\System.Web.Providers.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\WebGrease.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\Datos.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\Negocio.pdb
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\EntityFramework.xml
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.Core.xml
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OAuth.xml
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OpenId.xml
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.AspNet.xml
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\Datos.pdb
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\es\EntityFramework.resources.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\es\System.Web.Optimization.resources.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\es\System.Web.Providers.resources.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\obj\Debug\Web_Presentacion.csprojResolveAssemblyReference.cache
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\obj\Debug\Web_Presentacion.dll
+E:\ADO.NET\Seguridad\Seguridad\Web_Presentacion\obj\Debug\Web_Presentacion.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\Web_Presentacion.dll.config
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\Web_Presentacion.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\Web_Presentacion.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\Antlr3.Runtime.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.Core.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\EntityFramework.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\Negocio.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\System.Web.Optimization.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\System.Web.Providers.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\WebGrease.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\Datos.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\Negocio.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\EntityFramework.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.Core.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\Datos.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\es\EntityFramework.resources.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\es\System.Web.Providers.resources.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\obj\Debug\Web_Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\obj\Debug\Web_Presentacion.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Seguridad\Seguridad\Web_Presentacion\obj\Debug\Web_Presentacion.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\Web_Presentacion.dll.config
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\Web_Presentacion.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\Web_Presentacion.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\Antlr3.Runtime.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.Core.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\EntityFramework.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\Negocio.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\System.Web.Optimization.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\System.Web.Providers.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\WebGrease.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\Datos.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\Negocio.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\EntityFramework.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.Core.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\Datos.pdb
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\es\EntityFramework.resources.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\es\System.Web.Providers.resources.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\es\Microsoft.AspNet.Membership.OpenAuth.resources.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\obj\Debug\Web_Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\obj\Debug\Web_Presentacion.dll
+C:\Users\jhonny\Documents\Visual Studio 2013\Projects\Seguridad\Seguridad\Web_Presentacion\obj\Debug\Web_Presentacion.pdb

@@ -1,0 +1,25 @@
+﻿#MenuPrincipal{ height:37px; display:block; padding:0; margin:0;  border:1px solid; border-radius:5px; } 
+#MenuPrincipal > ul {list-style:inside none; padding:0; margin:0;} 
+#MenuPrincipal > ul > li {list-style:inside none; padding:0; margin:0; float:left; display:block; position:relative;} 
+#MenuPrincipal > ul > li > a{ outline:none; display:block; position:relative; padding:12px 20px; font:bold 13px/100% Arial, Helvetica, sans-serif; text-align:center; text-decoration:none; text-shadow:1px 1px 0 rgba(0,0,0, 0.4); } 
+#MenuPrincipal > ul > li:first-child > a{border-radius:5px 0 0 5px;} 
+#MenuPrincipal > ul > li > a:after{ content:''; position:absolute; border-right:1px solid; top:-1px; bottom:-1px; right:-2px; z-index:99; } 
+#MenuPrincipal ul li.has-sub:hover > a:after{top:0; bottom:0;} 
+#MenuPrincipal > ul > li.has-sub > a:before{ content:''; position:absolute; top:18px; right:6px; border:5px solid transparent; border-top:5px solid #fff; } 
+#MenuPrincipal > ul > li.has-sub:hover > a:before{top:19px;} 
+#MenuPrincipal ul li.has-sub:hover > a{ background:#3f3f3f; border-color:#3f3f3f; padding-bottom:13px; padding-top:13px; top:-1px; z-index:999; } 
+#MenuPrincipal ul li.has-sub:hover > ul, #cssmenu ul li.has-sub:hover > div{display:block;} 
+#MenuPrincipal ul li.has-sub > a:hover{background:#3f3f3f; border-color:#3f3f3f;} 
+#MenuPrincipal ul li > ul, #cssmenu ul li > div{ display:none; width:auto; position:absolute; top:30px; padding:10px 0; background:#3f3f3f; border-radius:0 0 5px 5px; z-index:999; } 
+#MenuPrincipal ul li > ul{width:200px;} 
+#MenuPrincipal ul li > ul li{display:block; list-style:inside none; padding:0; margin:0; position:relative;} 
+#MenuPrincipal ul li > ul li a{ outline:none; display:block; position:relative; margin:0; padding:8px 40px; font:10pt Arial, Helvetica, sans-serif; color:#fff; text-decoration:none; text-shadow:1px 1px 0 rgba(0,0,0, 0.5); } 
+#MenuPrincipal, #MenuPrincipal > ul > li > ul > li a:hover{ background:#4fbdf0; background:-moz-linear-gradient(top, #4fbdf0 0%, #45b2d2 100%); background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,#4fbdf0), color-stop(100%,#45b2d2)); background:-webkit-linear-gradient(top, #4fbdf0 0%,#45b2d2 100%); background:-o-linear-gradient(top,  #4fbdf0 0%,#45b2d2 100%); background:-ms-linear-gradient(top, #4fbdf0 0%,#45b2d2 100%); background:linear-gradient(top,  #4fbdf0 0%,#45b2d2 100%); filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#4fbdf0', endColorstr='#45b2d2',GradientType=0); } 
+ul ul {
+    margin-left: 0;
+    
+}
+#MenuPrincipal{border-color:#3589a1;} 
+#MenuPrincipal > ul > li > a{border-right:1px solid #3589a1; color:#fff;} 
+#MenuPrincipal > ul > li > a:after{border-color:#6ed1ff;} 
+#MenuPrincipal > ul > li > a:hover{background:#36acd2;} 
